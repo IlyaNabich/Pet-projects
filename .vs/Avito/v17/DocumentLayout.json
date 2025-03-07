@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilnai\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04289E00-B022-4338-AC76-3005E6FF8443}|WebApplication3\\AvitoCars.csproj|c:\\users\\ilnai\\source\\repos\\webapplication3\\webapplication3\\mocks\\mockcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04289E00-B022-4338-AC76-3005E6FF8443}|WebApplication3\\AvitoCars.csproj|solutionrelative:webapplication3\\mocks\\mockcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04289E00-B022-4338-AC76-3005E6FF8443}|WebApplication3\\AvitoCars.csproj|c:\\users\\ilnai\\source\\repos\\webapplication3\\webapplication3\\mocks\\mockcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04289E00-B022-4338-AC76-3005E6FF8443}|WebApplication3\\AvitoCars.csproj|solutionrelative:webapplication3\\mocks\\mockcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04289E00-B022-4338-AC76-3005E6FF8443}|WebApplication3\\AvitoCars.csproj|c:\\users\\ilnai\\source\\repos\\webapplication3\\webapplication3\\interfaces\\iallcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04289E00-B022-4338-AC76-3005E6FF8443}|WebApplication3\\AvitoCars.csproj|solutionrelative:webapplication3\\interfaces\\iallcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04289E00-B022-4338-AC76-3005E6FF8443}|WebApplication3\\AvitoCars.csproj|c:\\users\\ilnai\\source\\repos\\webapplication3\\webapplication3\\interfaces\\icarscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04289E00-B022-4338-AC76-3005E6FF8443}|WebApplication3\\AvitoCars.csproj|solutionrelative:webapplication3\\interfaces\\icarscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04289E00-B022-4338-AC76-3005E6FF8443}|WebApplication3\\AvitoCars.csproj|c:\\users\\ilnai\\source\\repos\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04289E00-B022-4338-AC76-3005E6FF8443}|WebApplication3\\AvitoCars.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAllCars.cs",
+              "DocumentMoniker": "C:\\Users\\ilnai\\source\\repos\\WebApplication3\\WebApplication3\\Interfaces\\IAllCars.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Interfaces\\IAllCars.cs",
+              "ToolTip": "C:\\Users\\ilnai\\source\\repos\\WebApplication3\\WebApplication3\\Interfaces\\IAllCars.cs",
+              "RelativeToolTip": "WebApplication3\\Interfaces\\IAllCars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T00:59:34.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MockCategory.cs",
+              "DocumentMoniker": "C:\\Users\\ilnai\\source\\repos\\WebApplication3\\WebApplication3\\Mocks\\MockCategory.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Mocks\\MockCategory.cs",
+              "ToolTip": "C:\\Users\\ilnai\\source\\repos\\WebApplication3\\WebApplication3\\Mocks\\MockCategory.cs",
+              "RelativeToolTip": "WebApplication3\\Mocks\\MockCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T00:59:26.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MockCars.cs",
+              "DocumentMoniker": "C:\\Users\\ilnai\\source\\repos\\WebApplication3\\WebApplication3\\Mocks\\MockCars.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Mocks\\MockCars.cs",
+              "ToolTip": "C:\\Users\\ilnai\\source\\repos\\WebApplication3\\WebApplication3\\Mocks\\MockCars.cs",
+              "RelativeToolTip": "WebApplication3\\Mocks\\MockCars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T00:57:17.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICarsCategory.cs",
+              "DocumentMoniker": "C:\\Users\\ilnai\\source\\repos\\WebApplication3\\WebApplication3\\Interfaces\\ICarsCategory.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Interfaces\\ICarsCategory.cs",
+              "ToolTip": "C:\\Users\\ilnai\\source\\repos\\WebApplication3\\WebApplication3\\Interfaces\\ICarsCategory.cs",
+              "RelativeToolTip": "WebApplication3\\Interfaces\\ICarsCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T00:57:13.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ilnai\\source\\repos\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\ilnai\\source\\repos\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:03:45.008Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
