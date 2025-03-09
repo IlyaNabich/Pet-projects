@@ -91,46 +91,6 @@ namespace WebApplication3.Mocks
                         Avaliable = true,
                         Category = _CategoryCars.AllCategories.First()
                     },
-                    new Car {
-                        Name = "Nissan",
-                        ShortDesc = "",
-                        LongDesc = "",
-                        Img = "",
-                        Price = 60000,
-                        IsFavourite = true,
-                        Avaliable = true,
-                        Category = _CategoryCars.AllCategories.First()
-                    },
-                    new Car {
-                        Name = "Nissan",
-                        ShortDesc = "",
-                        LongDesc = "",
-                        Img = "",
-                        Price = 60000,
-                        IsFavourite = true,
-                        Avaliable = true,
-                        Category = _CategoryCars.AllCategories.First()
-                    },
-                    new Car {
-                        Name = "Nissan",
-                        ShortDesc = "",
-                        LongDesc = "",
-                        Img = "",
-                        Price = 60000,
-                        IsFavourite = true,
-                        Avaliable = true,
-                        Category = _CategoryCars.AllCategories.First()
-                    },
-                    new Car {
-                        Name = "Nissan",
-                        ShortDesc = "",
-                        LongDesc = "",
-                        Img = "",
-                        Price = 60000,
-                        IsFavourite = true,
-                        Avaliable = true,
-                        Category = _CategoryCars.AllCategories.First()
-                    },
                 };
             }
         }
