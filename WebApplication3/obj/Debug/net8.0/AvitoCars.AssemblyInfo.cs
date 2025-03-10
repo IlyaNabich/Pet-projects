@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AvitoCars")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+573e504ffb4e468e2b08119c7dcb3037d578f14f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4754cb55f5b401f78d0db8cfde81d5163811675b")]
 [assembly: System.Reflection.AssemblyProductAttribute("AvitoCars")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AvitoCars")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
