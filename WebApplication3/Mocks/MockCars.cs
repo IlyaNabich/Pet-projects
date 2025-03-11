@@ -110,6 +110,16 @@ namespace WebApplication3.Mocks
                         IsFavourite = true,
                         Avaliable = true,
                         Category = _CategoryCars.AllCategories.First()
+                    }, 
+                    new Car {
+                        Name = "ЖИГУЛИ",
+                        ShortDesc = "Качество и долговечность",
+                        LongDesc = "Автомобиль, который служит долго и не требует частых ремонтов",
+                        Img = "",
+                        Price = 40000,
+                        IsFavourite = true,
+                        Avaliable = true,
+                        Category = _CategoryCars.AllCategories.First()
                     },
                 };
             }
